@@ -20,7 +20,7 @@ The dataset used for this project contains real-world data science job informati
   
 ## Dashboard Build 
 ### 📉 Charts
-📊 **Data science job salaries - bar Chart**
+📊 **Data science job salaries - Bar Chart**
 
 <img width="702" height="345" alt="Job_Title_Median_Salary_Bar" src="https://github.com/user-attachments/assets/3d938d2b-a06a-46f4-9a8f-e87513e643a0" /> 
 
