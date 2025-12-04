@@ -24,3 +24,20 @@ It includes detailed information on:
 - 💰 Salaries
 - 📍 Locations
 - 🛠️ Skills
+
+## 1️⃣ Do more skills get you better pay?
+### 🔍 Skill: Power Query (ETL)
+#### 📥 Extract
+- I first used Power Query to extract the original data (data_salary_all.xlsx) and create two queries:
+   - 🗃️ First one with all the data jobs information.
+   - 🔧 The second listing the skills for each job ID.
+
+#### 🔄 Transform
+- Then, I transformed each query by changing column types, removing unnecessary columns, cleaning text to eliminate specific words, and trimming excess whitespace.
+   - 📊 data_jobs_salary
+     
+<img width="320" height="527" alt="Data_Job_salary_Properties" src="https://github.com/user-attachments/assets/2f8585c9-3655-4dc7-bd7b-ef713f3674ab" />
+  
+  - 🛠️ data_job_skills
+     
+<img width="327" height="566" alt="Data_Job_Skill_Properties" src="https://github.com/user-attachments/assets/c3e8749e-fdcc-417b-b012-dcb1ddda90d1" />
