@@ -11,6 +11,7 @@ The following Excel skills were utilized for analysis:
 - 📉 **Charts**
 - 🧮 **Formulas and Functions**
 - ❎ **Data Validation**
+  
 ## Data Jobs Dataset
 The dataset used for this project contains real-world data science job information from 2023. The dataset is available via **Luke Barousse** Excel course, which provides a foundation for analyzing data using Excel. It includes detailed information on:
 - 👨‍💼 **Job titles**
@@ -56,9 +57,3 @@ The dataset used for this project contains real-world data science job informati
 
 
 
-
-
-- 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
-- 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
-- 📉 **Data Organization:** Sorted job titles by descending salary for improved readability.
-- 💡 **Insights Gained:** This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
