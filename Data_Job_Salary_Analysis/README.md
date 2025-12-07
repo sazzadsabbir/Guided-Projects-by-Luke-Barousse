@@ -60,3 +60,15 @@ It includes detailed information on:
 
 #### 🤔 So What
 - This trend emphasizes the value of acquiring multiple relevant skills, particularly for individuals aiming for higher-paying roles.
+## 2️⃣ What’s the salary for data jobs in different regions?
+### 🧮 Skills: PivotTables & DAX
+#### 📈Pivot Table
+
+- 🔢 I created a PivotTable using the Data Model I created with Power Pivot.
+- 📊 I moved the 'job_title_short' to the rows area and 'salary_year_avg' into the values area.
+- 🧮 Then I added new measure to calculate the median salary for United States jobs.
+
+`=CALCULATE(
+    MEDIAN(data_jobs_all[salary_year_avg]),
+    data_jobs_all[job_country] = "United States")`
+
