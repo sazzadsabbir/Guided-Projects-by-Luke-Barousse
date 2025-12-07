@@ -82,9 +82,23 @@ To calculate the median year salary I used DAX.
 - 💼 Job roles like Senior Data Engineer and Data Scientist command higher median salaries both in the US and internationally, showcasing the global demand for high-level data expertise.
 - 💰 The salary disparity between US and Non-US roles is particularly notable in high-tech jobs, which might be influenced by the concentration of tech industries in the US.
 
+
   
 <img width="911" height="292" alt="Salary_Analysis" src="https://github.com/user-attachments/assets/89e03070-247f-437f-8a00-dccb3e22767b" />
 
 #### 🤔 So What
 - These salary insights are important for planning and salary negotiations, helping professionals and companies align their offers with market standards while considering geographical variations.
+
+
+## 3️⃣ What are the top skills of data professionals?
+### 🔧 Skill: Power Pivot
+#### 💪 Power Pivot
+
+- 🔗 I created a data model by integrating the `data_jobs_all` and `data_jobs_skills` tables into one model.
+- 🧹 Since I had already cleaned the data using Power Query; Power Pivot created a relationship between these two tables.
+
+
+
+
+
 
