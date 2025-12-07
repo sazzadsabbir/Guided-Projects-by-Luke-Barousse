@@ -72,3 +72,19 @@ It includes detailed information on:
     MEDIAN(data_jobs_all[salary_year_avg]),
     data_jobs_all[job_country] = "United States")`
 
+  #### 🧮 DAX
+To calculate the median year salary I used DAX.
+`Median Salary := MEDIAN(data_jobs_all[salary_year_avg])`
+
+### 📊 Analysis
+#### 💡 Insights
+
+- 💼 Job roles like Senior Data Engineer and Data Scientist command higher median salaries both in the US and internationally, showcasing the global demand for high-level data expertise.
+- 💰 The salary disparity between US and Non-US roles is particularly notable in high-tech jobs, which might be influenced by the concentration of tech industries in the US.
+
+  
+<img width="911" height="292" alt="Salary_Analysis" src="https://github.com/user-attachments/assets/89e03070-247f-437f-8a00-dccb3e22767b" />
+
+#### 🤔 So What
+- These salary insights are important for planning and salary negotiations, helping professionals and companies align their offers with market standards while considering geographical variations.
+
