@@ -79,7 +79,24 @@ The dataset used for this project contains real-world data science job informati
 <img width="355" height="142" alt="Job_Schedule_Type_Shorted" src="https://github.com/user-attachments/assets/6cd8424a-f556-46e4-a7f3-66919c49102c" />
 
 
+📉 **Dashboard Implementation:**
 
+<img width="328" height="316" alt="job_type_job_count_dashboard" src="https://github.com/user-attachments/assets/3627f99d-ff5f-4f04-b1cf-bafd54bce761" />
+
+
+## ❎ Data Validation
+
+### 🔍 Filtered List
+- 🔒 **Enhanced Data Validation**: Implementing the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` option in the Data tab ensures:
+  - 🎯 User input is restricted to predefined, validated schedule types
+  - 🚫 Incorrect or inconsistent entries are prevented
+  - 👥 Overall usability of the dashboard is enhanced
+
+
+![Salary_Dashboard_Data_Validation](https://github.com/user-attachments/assets/ca5deeb1-c94a-4dbc-9a76-d21b47785bc4)
+
+## Conclusion 
+I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from Excel course of **Luke Barousse**, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries.
 
 
 
