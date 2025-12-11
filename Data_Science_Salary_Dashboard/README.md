@@ -51,7 +51,20 @@ The dataset used for this project contains real-world data science job informati
     (jobs[salary_year_avg]<>0),
     jobs[salary_year_avg]))`
 
+- 🔍 **Multi-Criteria Filtering:** Checks job title, country, schedule type, and excludes blank salaries.
+- 📊 **Array Formula:** Utilizes MEDIAN() function with nested IF() statement to analyze an array.
+- 🎯 **Tailored Insights:** Provides specific salary information for job titles, regions, and schedule types.
+- 🔢 **ormula Purpose:** This formula populates the table below, returning the median salary based on job title, country, and type specified.
 
+🍽️ **Background Table**
+
+<img width="338" height="258" alt="Job_Title_Median_Salary_Table" src="https://github.com/user-attachments/assets/50bd3550-47e0-4f62-99d1-2d2dd6bc1b35" />
+
+
+
+📉 **Dashboard Implementation**
+
+<img width="511" height="403" alt="job_title_median_salary_dashboard" src="https://github.com/user-attachments/assets/944c5f99-993f-4151-818c-49efe561887f" />
 
 
 
