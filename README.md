@@ -1,2 +1,1 @@
-# Guided-Projects-Luke-Barousse
-## A data-driven analysis of the 2023 data science job market, exploring how skills, salaries, and job roles relate. Using Excel tools such as Pivot Tables, Power Query, Power Pivot, and DAX, this project identifies the most in-demand skills, regional salary differences, and which competencies lead to higher pay. Analytical Excel dashboard for exploring salary trends in the data job market, featuring insights on job titles, pay ranges, locations, and skills
+# Guided-Projects-by-Luke-Barousse
