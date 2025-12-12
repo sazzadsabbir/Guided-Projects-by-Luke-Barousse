@@ -121,5 +121,18 @@ To calculate the median year salary I used DAX.
 ### 📊 Skill: Advanced Charts (Pivot Chart)
 #### 📈 PivotChart
 
+- I created a combo PivotChart to plot median salary and skill likelihood (%) from my PivotTable.
+  - 🪙 Primary Axis: Median Salary (as a Clustered Column)
+  - 👍 Secondary Axis: Skill Likelihood (as a Line with Markers)
+- To customize the chart, I added a title axis title, removed the lines (skill likelihood), and changed the markers to diamonds.
+
+### 📊 Analysis
+#### 💡Insights
+- 💰 Higher median salaries are associated with skills like Python, Oracle, and SQL, suggesting their critical role in high-paying tech jobs.
+- 📉 Skills like PowerPoint and Word have the lowest median salaries and likelihood, indicating less specialization and demand in high-salary sectors.
+
+
+<img width="795" height="381" alt="top 10 skills" src="https://github.com/user-attachments/assets/8432fdda-6ee1-4367-ad4e-f2ff6a61db41" />
+
 
 
