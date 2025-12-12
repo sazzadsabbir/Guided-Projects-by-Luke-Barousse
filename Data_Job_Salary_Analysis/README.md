@@ -109,7 +109,17 @@ To calculate the median year salary I used DAX.
 
 ### 📊Analysis
 #### 💡Insights
+- 💻 SQL and Python dominate as top skills in data-related jobs, reflecting their foundational role in data processing and analysis.
+- ☁️ Emerging technologies like AWS and Azure also show significant presence, underlining the industry's shift towards cloud services and big data technologies.
 
+<img width="497" height="407" alt="Top_Skill_for_Data_Nerds" src="https://github.com/user-attachments/assets/bbf78fe3-70d1-4579-9ff6-6205e4cb0071" />
+
+#### 🤔So What
+- Understanding prevalent skills in the industry not only helps professionals stay competitive but also guides training and educational programs to focus on the most impactful technologies.
+
+## 4️⃣ What’s the pay of the top 10 skills?
+### 📊 Skill: Advanced Charts (Pivot Chart)
+#### 📈 PivotChart
 
 
 
