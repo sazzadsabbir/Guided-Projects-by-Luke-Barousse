@@ -97,7 +97,18 @@ To calculate the median year salary I used DAX.
 - 🔗 I created a data model by integrating the `data_jobs_all` and `data_jobs_skills` tables into one model.
 - 🧹 Since I had already cleaned the data using Power Query; Power Pivot created a relationship between these two tables.
 
+#### 🔗 Data Model
+- I created a relationship between my two tables using the `job_id` column.
 
+<img width="963" height="663" alt="Diagram_View" src="https://github.com/user-attachments/assets/096bf328-88bf-4679-93ca-8eb7f6e058a3" />
+
+#### 📃 Power Pivot Menu
+- The Power Pivot menu was used to refine my data model and makes it easy to create measures.
+
+<img width="1492" height="846" alt="Data_View" src="https://github.com/user-attachments/assets/4b296472-2440-4e19-bdd4-6fe4de62d512" />
+
+### 📊Analysis
+#### 💡Insights
 
 
 
