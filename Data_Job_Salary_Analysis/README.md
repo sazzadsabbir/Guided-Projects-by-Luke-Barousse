@@ -135,4 +135,13 @@ To calculate the median year salary I used DAX.
 <img width="795" height="381" alt="top 10 skills" src="https://github.com/user-attachments/assets/8432fdda-6ee1-4367-ad4e-f2ff6a61db41" />
 
 
+### 🤔So What
+- This chart highlights the importance of investing time in learning high-value skills like Python and SQL, which are evidently tied to higher paying roles, especially for those looking to maximize their salary in the tech industry.
+
+## Conclusion
+As a data enthusiast and former job seeker, I embarked on this Excel-based project to uncover valuable insights about the data science job market. Using a dataset I've curated from real-world job postings, I analyzed job titles, salaries, locations, and essential skills. By leveraging Excel features like Power Query, PivotTables, DAX, and charts, I discovered key correlations between multiple skills and higher salaries, particularly in Python, SQL, and cloud technologies.
+
+I hope this project serves as a practical guide for data professionals and provides an overview of the skills needed for higher-paying roles.
+
+  
 
